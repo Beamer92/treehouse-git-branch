@@ -22,6 +22,12 @@ const treehouses = [
     img: 'https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/10/13/104772084-6ED5-BL-Microsoft-101317.600x337.jpg?v=1507921218',
     description: 'A beautiful treehouse that attracts drunk Microsoft employees to try to hop the fence and break their legs to take pictures.',
     contributor: 'Michael'
+  },
+  {
+    title: 'Monbazillac',
+    img:'https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/10/Monbazillac-a.jpg',
+    description: 'In Aquitaine, France, the Chateaux dans les Arbres features the Monbazillac Treehouse, looks like Hogwarts if Hogwarts was small and a treehouse',
+    contributor: 'Brendan'
   }
 ]
 
